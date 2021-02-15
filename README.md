@@ -30,15 +30,19 @@ Next Stage:
 ScreenShot
 
 1.HomePage
+
 ![home](https://user-images.githubusercontent.com/45460350/107940973-5314b200-6f89-11eb-87d0-684f3b004e9b.png)
 
 2.RegisterPage
+
 ![registeration](https://user-images.githubusercontent.com/45460350/107941042-6aec3600-6f89-11eb-9816-3c59d4ee6add.png)
 
 3.Raising Tickets
+
 ![raiseIncident](https://user-images.githubusercontent.com/45460350/107941071-73dd0780-6f89-11eb-9125-4ea2886f15af.png)
 
 4.Viewing Tickets
+
 ![viewIncident](https://user-images.githubusercontent.com/45460350/107941092-7ccdd900-6f89-11eb-8211-b7eefcfeacd2.png)
 
 
